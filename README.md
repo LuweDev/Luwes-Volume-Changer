@@ -71,6 +71,3 @@ To build a standalone executable (Windows):
 - Pillow
 - pystray
 - tkinter (standard with Python)
-
-## License
-[Your License Here]
