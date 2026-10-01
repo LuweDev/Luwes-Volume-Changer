@@ -1,38 +1,38 @@
 {
     "brave_down": {
-        "hotkey": "ctrl+alt+shift+!",
+        "hotkey": "ctrl+alt+shift+1",
         "app_name": "brave.exe"
     },
     "brave_up": {
-        "hotkey": "ctrl+alt+shift+\"",
+        "hotkey": "ctrl+alt+shift+2",
         "app_name": "brave.exe"
     },
     "brave_mute": {
-        "hotkey": "ctrl+alt+shift+\u00a3",
+        "hotkey": "ctrl+alt+shift+3",
         "app_name": "brave.exe"
     },
     "discord_down": {
-        "hotkey": "ctrl+alt+shift+$",
+        "hotkey": "ctrl+alt+shift+4",
         "app_name": "discord.exe"
     },
     "discord_up": {
-        "hotkey": "ctrl+alt+shift+%",
+        "hotkey": "ctrl+alt+shift+5",
         "app_name": "discord.exe"
     },
     "discord_mute": {
-        "hotkey": "ctrl+alt+shift+^",
+        "hotkey": "ctrl+alt+shift+6",
         "app_name": "discord.exe"
     },
     "focused_down": {
-        "hotkey": "ctrl+alt+shift+&",
+        "hotkey": "ctrl+alt+shift+7",
         "app_name": "focused"
     },
     "focused_up": {
-        "hotkey": "ctrl+alt+shift+*",
+        "hotkey": "ctrl+alt+shift+8",
         "app_name": "focused"
     },
     "focused_mute": {
-        "hotkey": "ctrl+alt+shift+(",
+        "hotkey": "ctrl+alt+shift+9",
         "app_name": "focused"
     },
     "overlay_enabled": true

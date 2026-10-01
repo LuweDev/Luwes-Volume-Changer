@@ -1,2 +1,5 @@
-Run this in CMD to create the exe manually:
-pyinstaller --onefile --windowed --icon=image.ico --add-data "image.ico;." --add-data "disabled.ico;." main.py
+Run this in CMD to create the exe manually (it ends up in dist\):
+pyinstaller --onefile --windowed --name "Luwe Volume Changer" --icon=image.ico --add-data "image.ico;." --add-data "disabled.ico;." --exclude-module numpy main.py
+
+--exclude-module numpy matters: comtypes has optional numpy support, so if numpy is installed PyInstaller
+would otherwise bundle it (~13 MB) even though the app never uses it.

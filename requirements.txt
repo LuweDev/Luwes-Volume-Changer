@@ -1,4 +1,4 @@
-keyboard
 pycaw
-pywin32
 psutil
+Pillow
+pystray
